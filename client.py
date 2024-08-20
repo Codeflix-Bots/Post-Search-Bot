@@ -20,6 +20,6 @@ class Bot(Client):
         await super().start()        
         await User.start()
         Popen("python3 -m utils.delete", shell=True)       
-        print("@CodeXBots")   
+        print("@Codeflix_Bots")   
     async def stop(self, *args):
         await super().stop()

@@ -1,0 +1,15 @@
+pyrogram
+tgcrypto
+motor
+cinemagoer
+aiohttp
+aiofiles
+asyncio
+Pillow
+Flask
+gunicorn
+speedtest
+googletrans
+requests
+gtts
+psutil

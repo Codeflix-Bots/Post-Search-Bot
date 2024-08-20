@@ -1,9 +1,15 @@
+━━━━━━━━━━━━━━━━━━━━
+
 <h2 align="center">
-  ─「 ᴘᴏsᴛ  sᴇᴀʀᴄʜ  ʙᴏᴛ 」─
+    ──「  ᴘᴏsᴛ  sᴇᴀʀᴄʜ  ʙᴏᴛ 」──
 </h2>
 
+<p align="center">
+  <img src="https://graph.org/file/8581e33195ed8183a3253.jpg">
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CodeXBots+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=POST+SEARCH+BOT+!;CREATED+BY+CODEFLIX+!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
  ━━━━━━━━━━━━━━━━━
@@ -37,25 +43,25 @@ connections - Get connected channels list
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/CodeXBots/Post-Search-Bot">
+<p align="center"><a href="https://github.com/sewxiy/Post-Search-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Post-Search-Bot&branch=main&name=Post-Search-Bot">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/sewxiy/Post-Search-Bot&branch=main&name=Post-Search-Bot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Post-Search-Bot"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/sewxiy/Post-Search-Bot"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Post-Search-Bot">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/sewxiy/Post-Search-Bot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 </details>
@@ -65,9 +71,9 @@ connections - Get connected channels list
 
 - <b>[ᴄʏɴɪᴛᴇ](https://github.com/cyniteofficial)  ➻  ʙᴀsɪᴄ ᴄᴏᴅᴇ
 
-- <b>[ʀᴀʜᴜʟ](https://github.com/CodeXBots)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://youtube.com/@RahulReviews) </b>
+- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://github.com/CodeXBots)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/codeflix_bots) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/CodeXSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix_bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 ## 📌  𝑵𝒐𝒕𝒆
 

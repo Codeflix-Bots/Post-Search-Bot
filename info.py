@@ -5,4 +5,4 @@ SESSION      = ""
 DATABASE_URI = ""
 LOG_CHANNEL  = 
 ADMIN        = 
-CHANNEL      = "RahulReviewsYT"
+CHANNEL      = "codeflix_bots"

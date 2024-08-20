@@ -2,19 +2,16 @@ class script(object):
     START = """{},
 
 ɪ ᴀᴍ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ,
-
 ɪ ᴡɪʟʟ ꜰɪʟᴛᴇʀ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀɴᴅ sᴇɴᴅ ɪᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡʜᴇɴ sᴏᴍᴇᴏɴᴇ sᴇᴀʀᴄʜ ɪᴛ.
 
 <b>ꜱᴇɴᴅ /help ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ</b>"""
 
     HELP = """<b>‼️  ʜᴏᴡ ᴛᴏ ᴜꜱᴇ ᴍᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ  ‼️</b>
 
-
 ❂ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ.
-
 ❂ ᴛʏᴘᴇ /verify ɪɴ ɢʀᴏᴜᴘ.
 
-❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="https://telegram.me/CodeXBro">ᴏᴡɴᴇʀ</a></b>
+❂ ᴡᴀɪᴛ ᴜɴᴛɪʟ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ ɪꜱ ᴠᴇʀɪꜰɪᴇᴅ ʙʏ <b><a href="https://telegram.me/sewxiy">ᴏᴡɴᴇʀ</a></b>
 
 ❂ ᴀꜰᴛᴇʀ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ꜱᴇɴᴅ /connect ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ɪᴅ
 <b>⤨ ᴇxᴀᴍᴘʟᴇ -</b>
@@ -36,12 +33,12 @@ class script(object):
 /connections"""
 
     ABOUT = """<b>➣ ᴍʏ ɴᴀᴍᴇ ⋟  {}</b>
-<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/CodeXBro>ʀᴀʜᴜʟ</a></b>
-<b>➢ ᴄʜᴀɴɴᴇʟ  ⋟  <a href=https://youtube.com/@RahulReviews>ʀᴀʜᴜʟ ʀᴇᴠɪᴇᴡꜱ</a></b>
+<b>➢ ᴄʀᴇᴀᴛᴏʀ ⋟  <a href=https://telegram.me/sewxiy>sᴜʙᴀʀᴜ</a></b>
+<b>➢ ᴄʜᴀɴɴᴇʟ  ⋟  <a href=https://t.me/codeflix_bots>ᴄᴏᴅᴇғʟɪx ʙᴏᴛs</a></b>
 <b>➢ ʟᴀɴɢᴜᴀɢᴇ ⋟  <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a></b>
 <b>➣ ᴅᴀᴛᴀʙᴀsᴇ ⋟  <a href=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a></b>
 <b>➢ ʙᴏᴛ sᴇʀᴠᴇʀ ⋟  <a href=https://heroku.com>ʜᴇʀᴏᴋᴜ</a></b>
-<b>➣ ʙᴜɪʟᴅ sᴛᴀᴛs ⋟  ᴠ𝟸.𝟶.𝟷 ﹝ʙᴇᴛᴀ﹞</b>"""
+<b>➣ ʙᴜɪʟᴅ sᴛᴀᴛs ⋟  ᴠ3.𝟶.𝟷 ﹝ʙᴇᴛᴀ﹞</b>"""
 
     STATS = """<b>ᴄᴜʀʀᴇɴᴛ  ꜱᴛᴀᴛᴜꜱ   📊</b>
 

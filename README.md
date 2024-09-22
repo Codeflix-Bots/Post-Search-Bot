@@ -69,9 +69,9 @@ connections - Get connected channels list
 <h3> 「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄʏɴɪᴛᴇ](https://github.com/cyniteofficial)  ➻  ʙᴀsɪᴄ ᴄᴏᴅᴇ
+- <b>[rahul](https://github.com/CodeXBots  ➻  ʙᴀsɪᴄ ᴄᴏᴅᴇ
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://github.com/CodeXBots)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/codeflix_bots) </b>
+- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://github.com/)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/codeflix_bots) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix_bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴘᴏsᴛ sᴇᴀʀᴄʜ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 

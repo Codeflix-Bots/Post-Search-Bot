@@ -69,7 +69,7 @@ connections - Get connected channels list
 <h3> 「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[rahul](https://github.com/CodeXBots  ➻  ʙᴀsɪᴄ ᴄᴏᴅᴇ
+- <b>[rahul](https://github.com/CodeXBots)  ➻  ʙᴀsɪᴄ ᴄᴏᴅᴇ
 
 - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://github.com/)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/codeflix_bots) </b>
  
